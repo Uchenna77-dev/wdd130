@@ -25,7 +25,7 @@ body {
    width: 120px;
    height: auto;
 }
-.grid-header nav  {
+.grid-header nav ul {
    display: flex;
    flex-direction: row;
    justify-content: space-around;
